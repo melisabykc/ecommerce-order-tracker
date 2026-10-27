@@ -1,1 +1,2 @@
-# Python standard library only.
+streamlit>=1.40,<2
+pandas>=2.0,<3
